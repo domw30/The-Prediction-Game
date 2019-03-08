@@ -1,3 +1,14 @@
+puts""
+puts""
+puts "A short numbers game!
+
+Follow the instructions and have fun :)
+
+Note* You only need to type your name when prompted, after this you only need to use \"Enter\"."
+puts ""
+
+puts ""
+puts ""
 puts ""
 puts "\t\tThe Prediction".upcase
 puts ""
@@ -37,6 +48,7 @@ random_even_number = even_number.sample
 
     puts "#{name}, I predict that your final total is 1!"
     puts ""
+    puts ""
     puts "\tThank you for playing The Prediction."
     puts ""
   end
@@ -57,6 +69,7 @@ random_even_number = even_number.sample
 
     puts "#{name}, I predict that your final number is 2!"
     puts ""
+    puts ""
     puts "\tThank you for playing The Prediction."
     puts ""
   end
@@ -75,6 +88,7 @@ random_even_number = even_number.sample
     enter = $stdin.gets.chomp
 
     puts "#{name}, I predict that your final number is 3!"
+    puts ""
     puts ""
     puts "\tThank you for playing The Prediction."
     puts ""
@@ -95,6 +109,7 @@ random_even_number = even_number.sample
 
     puts "#{name}, I predict that your final number is 4!"
     puts ""
+    puts ""
     puts "\tThank you for playing The Prediction."
     puts ""
   end
@@ -113,6 +128,7 @@ random_even_number = even_number.sample
     enter = $stdin.gets.chomp
 
     puts "#{name}, I predict that your final number is 5!"
+    puts ""
     puts ""
     puts "Thank you for playing The Prediction."
     puts ""
