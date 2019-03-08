@@ -1,4 +1,4 @@
-# The-Prediction-Game
+# The Prediction Game
 A short numbers game!
 
 This is a small project that I have created to practice using Ruby.
