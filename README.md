@@ -1,4 +1,4 @@
-# The Prediction Game
+# The Prediction Game #
 A short numbers game!
 
 This is a small project that I have created to practice using Ruby.
@@ -11,4 +11,8 @@ Follow the instructions and have fun :)
 
 Note* You only need to type your name when prompted, after this you only need to use "Enter".
 
+## How to use ## 
 
+```shell
+ruby thePrediction.rb
+```
