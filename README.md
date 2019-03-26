@@ -1,9 +1,11 @@
 # The Prediction Game #
 A short numbers game!
 
-This is a small project that I have created to practice using Ruby.
+This is a small project that I have created to practice using Ruby to help develop my skills.
 
 The game is a maths trick that predicts the total number you are left with after a number of actions.
+
+I was motivated to include interaction with a user, to design a game where a user makes a choice.
 
 The game is to be run on the command line.
 
